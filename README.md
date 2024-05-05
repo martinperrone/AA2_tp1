@@ -5,6 +5,9 @@
 
 ## Trabajo Práctico 1
 
+
+
+
 Estudiante:
 * Pistarelli, Pablo
 * Eder, Max
@@ -12,28 +15,28 @@ Estudiante:
 
 
 
-<h1>⚽ Chatbot - de Fútbol ⚽ </h1><br>
+
 
 
 <table>
   <tr>
-    <th>Fuente de datos</th>
+    <th>Ejercicios </th>
     <th>Fuente de datos</th>
     <th>Description</th>
   </tr>
   <tr>
-    <td><b>Documentos de texto</b></td>
-    <td><b>Documentos de texto</b></td>
+    <td><b>Problema 1</b></td>
+    <td><b>Dataset: "Student_Performance.csv"</b></td>
     <td>Reglas de juego FIFA, autorizadas por el International Football Association Board (IFAB)), en formato pdf </td>
   </tr>
   <tr>
-    <td><b>Datos numéricos en formato tabular</b></td>
-    <td><b>Datos numéricos en formato tabular</b></td>
+    <td><b>Problema 2</b></td>
+    <td><b>Dataset: "TP1-2-Dry-Bean-Dataset.csv"</b></td>
     <td>Tabla con estadísticas de mundiales, en fromato sql</td>
   </tr>
   <tr>
-    <td><b>Base de datos de grafos</b></td>
-    <td><b>Base de datos de grafos</b></td>
+    <td><b>Problema 3</b></td>
+    <td><b>Dataset de 25,000 imágenes de tamaño 150x150</b></td>
     <td>Datos de Wikidata</td>
   </tr>
   </tr>
@@ -58,18 +61,3 @@ Estudiante:
   - OpenAI
   -     pip install langchain-openai
   
-### Pasos a seguir:
-
-1. URL https://github.com/martinperrone/TP2_NLP
-
-2. Descargar los archivos:
-   - TP_final_NLP_martin_perrone.ipynb
-   - mundiales_stats.sql
-   - Futbol_ fifa.pdf
-
-3. Ejecutar en una notebook el archivo tp_final_NLP.ipynb
-
-4. Consultar al chatbot sobre algunas de las categorías (reglamento, mundiales de fútbol, otros)
-
-
-![Sin título](https://github.com/martinperrone/TP2_NLP/assets/109038969/e4498e3c-b2f4-44c4-9ff6-0100014df13d)
