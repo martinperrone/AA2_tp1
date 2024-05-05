@@ -18,17 +18,21 @@ Estudiante:
 <table>
   <tr>
     <th>Fuente de datos</th>
+    <th>Fuente de datos</th>
     <th>Description</th>
   </tr>
   <tr>
+    <td><b>Documentos de texto</b></td>
     <td><b>Documentos de texto</b></td>
     <td>Reglas de juego FIFA, autorizadas por el International Football Association Board (IFAB)), en formato pdf </td>
   </tr>
   <tr>
     <td><b>Datos numéricos en formato tabular</b></td>
+    <td><b>Datos numéricos en formato tabular</b></td>
     <td>Tabla con estadísticas de mundiales, en fromato sql</td>
   </tr>
   <tr>
+    <td><b>Base de datos de grafos</b></td>
     <td><b>Base de datos de grafos</b></td>
     <td>Datos de Wikidata</td>
   </tr>
