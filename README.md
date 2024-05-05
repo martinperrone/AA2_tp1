@@ -1,5 +1,5 @@
 ![feceia1](https://github.com/martinperrone/TP_aprendizaje_automatico/assets/109038969/1e6bd2ee-df8f-4f79-93fd-6d11caba36da)
-![Banner NLP-1](https://github.com/martinperrone/TP2_NLP/assets/109038969/92f59455-471f-4319-abd3-782f90d36df1)
+![Banner_AA2](https://github.com/martinperrone/AA2_tp1/assets/109038969/10b37f6f-dea3-416a-b707-db77644b5186)
 
 # Tecnicatura en Inteligencia Artificial 
 
