@@ -1,13 +1,15 @@
 ![feceia1](https://github.com/martinperrone/TP_aprendizaje_automatico/assets/109038969/1e6bd2ee-df8f-4f79-93fd-6d11caba36da)
 ![Banner_AA2](https://github.com/martinperrone/AA2_tp1/assets/109038969/10b37f6f-dea3-416a-b707-db77644b5186)
 
-# Tecnicatura en Inteligencia Artificial 
+# Tecnicatura en Inteligencia Artificial (TUIA)
 
-## Trabajo Práctico 2
+## Trabajo Práctico 1
 
 Estudiante:
-* Perrone, Martín L.
-* Legajo: P-5197/7
+* Pistarelli, Pablo
+* Eder, Max
+* Perrone, Martín
+
 
 
 <h1>⚽ Chatbot - de Fútbol ⚽ </h1><br>
