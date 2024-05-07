@@ -46,7 +46,7 @@ Integrantes:
 <br><br>
 
 
-#### Librerías necesarios:
+## Librerías necesarias:
   - Python versión 3.10.12 o superior
   - gdown
   -      pip install -q gdown
@@ -55,12 +55,18 @@ Integrantes:
   - pathlib
   -     pip install pathlib
   - TensorFlow
-  -     pip install tensorflow[
+  -     pip install tensorflow
   - Keras
   -     pip install keras
   - matplotlib
   -     pip install matplotlib
   - pillow
   -     pip install pillow
-  - zipfile
+  - pandas
+  -     pip install pandas
+  - seaborn
+  -     pip install seaborn
+  - scikit-learn
+  -     pip install -U scikit-learn
+
   
