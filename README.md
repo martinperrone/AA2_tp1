@@ -7,9 +7,9 @@
 
 
 Integrantes:
-* Pistarelli, Pablo
-* Eder, Max
-* Perrone, Martín
+* Pablo Pistarelli
+* Max Eder
+* Martín L. Perrone
 
 <br><br>
 
@@ -68,5 +68,6 @@ Integrantes:
   -     pip install seaborn
   - scikit-learn
   -     pip install -U scikit-learn
-
+  - Gradio
+  -     pip install gradio
   
